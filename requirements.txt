@@ -9,4 +9,4 @@ coverage
 pytest-cov
 virtualenv
 Flask
-Flask-WTF
+#Flask-WTF
